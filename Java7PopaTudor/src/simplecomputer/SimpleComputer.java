@@ -15,6 +15,7 @@ public class SimpleComputer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
 //    Starting from first java program we created in our training session, please implement a desk computer. It should work following the steps:
 //
 //1. Display in console "Please introduce your first number:"
